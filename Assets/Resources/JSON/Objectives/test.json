@@ -1,0 +1,20 @@
+﻿{
+  "listOfSubObjective": [
+    {
+      "type": "killAll",
+      "enemy": [],
+      "Title": "A",
+      "Description": "B",
+      "IsPrimary": true
+    },
+    {
+      "type": "protectAll",
+      "neutral": [],
+      "Title": "D",
+      "Description": "E",
+      "IsPrimary": false
+    }
+  ],
+  "Title": "Test Titre",
+  "Description": "Test Desc"
+}

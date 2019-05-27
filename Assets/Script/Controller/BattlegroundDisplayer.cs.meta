@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d38df02ec1cce647ba62911d8f42149
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - JSONArena: {instanceID: 0}
+  - characterTestSprite: {instanceID: 0}
+  - lootSprite: {fileID: 21300000, guid: cb972dbfa62ef5c4086718cc9a2abd19, type: 3}
+  executionOrder: -200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

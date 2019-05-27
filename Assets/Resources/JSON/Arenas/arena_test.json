@@ -1,0 +1,15 @@
+{
+  "arenaTiles": [
+    [ "unwalkable", "normal", "normal", "normal", "normal", "normal", "normal" ],
+    [ "normal", "normal", "normal", "normal", "normal", "normal", "normal" ],
+    [ "normal", "normal", "normal", "obstacle", "normal", "normal", "normal" ],
+    [ "normal", "obstacle", "normal", "obstacle", "normal", "normal", "normal" ],
+    [ "normal", "normal", "normal", "obstacle", "normal", "normal", "normal" ],
+    [ "normal", "normal", "normal", "normal", "normal", "normal", "normal" ],
+    [ "unwalkable", "normal", "normal", "normal", "normal", "normal", "normal" ]
+  ],
+  "interactableList": {
+  },
+	"Width":7,
+	"Height":7
+}
